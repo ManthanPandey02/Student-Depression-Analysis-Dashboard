@@ -120,7 +120,3 @@ Ultimately, this Power BI project advocates for a holistic approach where educat
 - **DAX (Data Analysis Expressions)**
 - **Excel / CSV Data Source**
 - **Bing Maps API (Geo visualization)**
-
----
-
-## 📁 Folder Structure
